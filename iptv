@@ -481,54 +481,6 @@ http://117.148.179.31/PLTV/88888888/224/3221230026/index.m3u8
 #EXTINF:-1 tvg-id="162"tvg-name=""tvg-logo=""group-title="IHOT",IHOT爱悬疑
 http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
 
-#EXTINF:-1 tvg-id="163" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN古装剧场
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=6
-
-#EXTINF:-1 tvg-id="164" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN朵丫乐园
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=5
-
-#EXTINF:-1 tvg-id="165" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN真人秀
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=1
-
-#EXTINF:-1 tvg-id="166" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN动漫剧场
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=12
-
-#EXTINF:-1 tvg-id="167" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN经典剧场
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=4
-
-#EXTINF:-1 tvg-id="168" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN流金岁月
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=14
-
-#EXTINF:-1 tvg-id="169" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN骄阳剧场
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=2
-
-#EXTINF:-1 tvg-id="169" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN风尚运动
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=10
-
-#EXTINF:-1 tvg-id="171" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN东方教育
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=8
-
-#EXTINF:-1 tvg-id="172" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN全电竞
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=9
-
-#EXTINF:-1 tvg-id="173" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN时尚生活
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=3
-
-#EXTINF:-1 tvg-id="174" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN综合
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=18
-
-#EXTINF:-1 tvg-id="175" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN微电影
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=16
-
-#EXTINF:-1 tvg-id="176" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN纪录片
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=7
-
-#EXTINF:-1 tvg-id="178" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN动画乐园
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=0
-
-#EXTINF:-1 tvg-id="179" tvg-logo="https://data.znds.com/attachment/portal/201411/21/133915x8xujr441zsun1r1.jpg" group-title="CIBN", CIBN环球奇观
-http://iptv.inewya.com/qq494937337/others/cibn.php?id=17
-
 #EXTINF:-1 tvg-id="180" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="数字付费",斗鱼电影1
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
 
