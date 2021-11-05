@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",纯享4K (2160p)
-http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
@@ -130,6 +128,9 @@ http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-name="国际健康" tvg-logo="" group-title="中国央视",国际健康
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+
+#EXTINF:-1 tvg-id="0" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",纯享4K (2160p)
+http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="中国卫视", 新视觉 HD
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
