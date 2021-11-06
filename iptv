@@ -318,59 +318,65 @@ https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playli
 #EXTINF:-1 tvg-id="104" tvg-name="昭化新闻综合" tvg-logo="http://file.dzsm.com/cms/pictures/20200416/0f824515714bcd00e076f4a73d37f90a/0f824515714bcd00e076f4a73d37f90a.jpg" group-title="广元",昭化新闻综合
 https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="105" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电影 (1080p)
+#EXTINF:-1 tvg-id="NewTVZhongGuoGongFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV中国功夫 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVJunShiPingLun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV军事评论 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVJunLuJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV军旅剧场 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVNongYeZhiFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV农业致富 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVGuZhuangJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV古装剧场 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVJiaTingJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV家庭剧场 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVYiBanJianKang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV怡伴健康 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVMingXingDaPian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV明星大片 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVWuBoShiJie.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV武搏世界 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVChaoMaLaPo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV潮妈辣婆 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVXuanWuWeiLai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV炫舞未来 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVAiQingXiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV爱情喜剧 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVJingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品体育 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVJingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品大剧 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVJingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品纪录 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVChaoJiTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级体育 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTVChaoJiDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电影 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 
-#EXTINF:-1 tvg-id="106" tvg-name="NewTV中国功夫" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/ZGGONGFU/ZGGONGFU.jpg" group-title="数字付费",NewTV中国功夫
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225690/index.m3u8
+#EXTINF:-1 tvg-id="NewTVChaoJiDianShiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电视剧 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-name="NewTV军事评论" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JSPINGLUN/JSPINGLUN.jpg" group-title="数字付费",NewTV军事评论
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225749/index.m3u8
+#EXTINF:-1 tvg-id="NewTVChaoJiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级综艺 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 
-#EXTINF:-1 tvg-id="108" tvg-name="NewTV军旅剧场" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/JLJUCHANG/JLJUCHANG.jpg" group-title="数字付费",NewTV军旅剧场
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225727/index.m3u8
-
-#EXTINF:-1 tvg-id="109" tvg-name="NewTV农业致富" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NYZHIFU/NYZHIFU.jpg?1" group-title="数字付费",NewTV农业致富
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225687/index.m3u8
-
-#EXTINF:-1 tvg-id="110" tvg-name="NewTV动作电影" tvg-logo="" group-title="NewTV",NewTV动作电影
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225703/index.m3u8
-
-#EXTINF:-1 tvg-id="111" tvg-name="NewTV古装剧场" tvg-logo="" group-title="数字付费",NewTV古装剧场
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225706/index.m3u8
-
-#EXTINF:-1 tvg-id="112" tvg-name="NewTV家庭剧场" tvg-logo="" group-title="数字付费",NewTV家庭剧场
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225743/index.m3u8
-
-#EXTINF:-1 tvg-id="113" tvg-name="NewTV怡伴健康" tvg-logo="" group-title="数字付费",NewTV怡伴健康
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225684/index.m3u8
-
-#EXTINF:-1 tvg-id="114" tvg-name="NewTV惊悚悬疑" tvg-logo="" group-title="数字付费",NewTV惊悚悬疑
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225746/index.m3u8
-
-#EXTINF:-1 tvg-id="115" tvg-name="NewTV明星大片" tvg-logo="" group-title="数字付费",NewTV明星大片
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225733/index.m3u8
-
-#EXTINF:-1 tvg-id="116" tvg-name="NewTV武搏世界" tvg-logo="" group-title="数字付费",NewTV武搏世界
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225758/index.m3u8
-
-#EXTINF:-1 tvg-id="117" tvg-name="NewTV海外剧场" tvg-logo="" group-title="数字付费",NewTV海外剧场
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225763/index.m3u8
-
-#EXTINF:-1 tvg-id="118" tvg-name="NewTV潮妈辣婆" tvg-logo="" group-title="数字付费",NewTV潮妈辣婆
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225709/index.m3u8
-
-#EXTINF:-1 tvg-id="119" tvg-name="NewTV爱情喜剧" tvg-logo="" group-title="数字付费",NewTV爱情喜剧
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225698/index.m3u8
-
-#EXTINF:-1 tvg-id="120" tvg-name="NewTV精品体育" tvg-logo="" group-title="数字付费",NewTV精品体育
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225724/index.m3u8
-
-#EXTINF:-1 tvg-id="121" tvg-name="NewTV精品纪录 " tvg-logo="" group-title="数字付费",NewTV精品纪录
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225681/index.m3u8
-
-#EXTINF:-1 tvg-id="122" tvg-name="NewTV金牌综艺" tvg-logo="" group-title="数字付费",NewTV金牌综艺
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225755/index.m3u8
+#EXTINF:-1 tvg-id="NewTVJinPaiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV金牌综艺 (1080p)
+http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 
 #EXTINF:-1 tvg-id="123" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="数字付费",SiTV全纪实台 (1080p)
 http://112.25.48.68/live/program/live/qjshd/4000000/mnf.m3u8
@@ -567,20 +573,23 @@ http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="204" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="地方",上海哈哈炫动 4M576
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225711/index.m3u8
 
-#EXTINF:-1 tvg-id="205" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",北京卡酷少儿 4M576
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="BeiJingQiaKuShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Kids",北京卡酷少儿 (576p)
+http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
 
 #EXTINF:-1 tvg-id="206" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",广东嘉佳卡通 4M576
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225797/index.m3u8
 
 #EXTINF:-1 tvg-id="207" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",江苏优漫卡通 4M576
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225791/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
 
 #EXTINF:-1 tvg-id="208" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",湖南金鹰卡通 4M576
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225702/index.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 
 #EXTINF:-1 tvg-id="209" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南金鹰纪实 4M576
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225699/index.m3u8
+
+#EXTINF:-1 tvg-id="QingHaiAnDuoWeiShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",青海安多卫视 (576p)
+http://39.134.66.66/PLTV/88888888/224/3221225531/index.m3u8
 
 #EXTINF:-1 tvg-id="210" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="南京",南京信息 (720p)
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
